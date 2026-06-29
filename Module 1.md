@@ -49,7 +49,7 @@ Superposition Depends on the Basis States(A given qubit state may or may not be 
 
 - Step 3: Alice and Bob check if they used the same Basis State. If not, discard qubit
 
-  <img src="C:\Users\xf_yo\AppData\Roaming\Typora\typora-user-images\image-20260629002958205.png" alt="image-20260629002958205" style="zoom: 33%;" />
+  <img src="assets\image-20260629002958205.png" alt="image-20260629002958205" style="zoom: 33%;" />
 
 Detect tampering by comparing and discarding some transferred bits.
 
