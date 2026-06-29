@@ -21,16 +21,7 @@ $$
 
 $$
 \
-|\psi_2\psi_1\rangle
-=
-\alpha_{00}|00\rangle
-+
-\alpha_{01}|01\rangle
-+
-\alpha_{10}|10\rangle
-+
-\alpha_{11}|11\rangle
-$$
+|\psi_2\psi_1\rangle=\alpha_{00}|00\rangle+\alpha_{01}|01\rangle+\alpha_{10}|10\rangle+\alpha_{11}|11\rangle$$
 
 - With N qubits, we can concurrently represent superposition over 2N states
 - Measurement Collapses the Qubit to One of the Basis States
